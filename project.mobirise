@@ -48,8 +48,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "estacionauto",
+        "meta_descr": "Sistemas de Control de Estacionamientos Publicos y Privados. Control de Accesos para privadas y establecimientos publicos.\nMonitoreo de rutas de autobuses y Aplicaciones Moviles.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
