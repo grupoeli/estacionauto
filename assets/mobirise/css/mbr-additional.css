@@ -716,3 +716,96 @@ section.lazy-placeholder:after {
 .cid-s3ljnb6V2G H1 {
   text-align: center;
 }
+.cid-s3lmPgtFIC {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #2e2e2e;
+}
+@media (max-width: 767px) {
+  .cid-s3lmPgtFIC .content {
+    text-align: center;
+  }
+  .cid-s3lmPgtFIC .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+.cid-s3lmPgtFIC .img-logo img {
+  height: 6rem;
+}
+.cid-s3lmPgtFIC .form-group,
+.cid-s3lmPgtFIC .input-group-btn {
+  padding: 0;
+}
+.cid-s3lmPgtFIC .form-control {
+  font-size: .75rem;
+  text-align: center;
+  min-width: 150px;
+}
+.cid-s3lmPgtFIC .input-group-btn .btn {
+  padding: .75rem 1.5625rem !important;
+  margin-left: .625rem;
+  text-transform: none;
+  color: #fff;
+  text-align: center;
+}
+.cid-s3lmPgtFIC .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.cid-s3lmPgtFIC .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-s3lmPgtFIC .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-s3lmPgtFIC .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-s3lmPgtFIC .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-s3lmPgtFIC .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s3lmPgtFIC .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-s3lmPgtFIC .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-s3lmPgtFIC .form-group {
+  margin: 0;
+}
+@media (max-width: 767px) {
+  .cid-s3lmPgtFIC .foot-logo {
+    text-align: center !important;
+  }
+  .cid-s3lmPgtFIC .foot-title {
+    text-align: center !important;
+  }
+  .cid-s3lmPgtFIC .mbr-text {
+    text-align: center !important;
+  }
+  .cid-s3lmPgtFIC .form-group {
+    margin: 0;
+  }
+}
+.cid-s3lmPgtFIC .form-text {
+  text-align: left;
+}
