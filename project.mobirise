@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "estacionautoprueba",
-    "currentPage": "index.html",
+    "currentPage": "httpsgrupoeli.github.ioestacionauto.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -56,11 +56,11 @@
     "site_lang": "undefined"
   },
   "pages": {
-    "index.html": {
+    "httpsgrupoeli.github.ioestacionauto.html": {
       "settings": {
         "main": true,
-        "title": "titulo estacionauto",
-        "meta_descr": "",
+        "title": "estacionauto",
+        "meta_descr": "Plataforma de operación y administración de estacionamientos.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
