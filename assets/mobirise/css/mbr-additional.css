@@ -1035,45 +1035,8 @@ a {
     left: -1rem;
   }
 }
-.cid-siJgD1WC96 {
-  display: flex;
-  background-image: url("../../../assets/images/background12.jpg");
-}
-.cid-siJgD1WC96 .mbr-overlay {
-  background-color: #353535;
-  opacity: 0.5;
-}
-.cid-siJgD1WC96 .content-wrap {
-  padding: 5rem 1rem;
-}
-@media (min-width: 768px) {
-  .cid-siJgD1WC96 {
-    align-items: flex-end;
-  }
-  .cid-siJgD1WC96 .row {
-    justify-content: flex-start;
-  }
-  .cid-siJgD1WC96 .content-wrap {
-    width: 51%;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-siJgD1WC96 .content-wrap {
-    min-width: 50%;
-  }
-}
-@media (max-width: 767px) {
-  .cid-siJgD1WC96 {
-    -webkit-align-items: center;
-    align-items: center;
-  }
-  .cid-siJgD1WC96 .mbr-row {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-  .cid-siJgD1WC96 .content-wrap {
-    width: 100%;
-  }
+.cid-siJntdqIHU {
+  background-image: url("../../../assets/images/background9.jpg");
 }
 .cid-siJl180uXt {
   padding-top: 4rem;
